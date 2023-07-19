@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with RESTful API.
 - 📫 How to reach me:
     [![theWebSite](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/global.svg)](https://www.IdonthaveanywhywouldIhaveany.com/)
-   [![Instagram](https://simpleicons.org/icons/instagram.svg)](https://www.instagram.com/b.ru.ck/)
+  <a href="https://www.instagram.com/your_instagram_username/"><img src="https://simpleicons.org/icons/instagram.svg" alt="Instagram" width="22px"></a>
 
 
 <!--
