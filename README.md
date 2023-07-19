@@ -9,8 +9,8 @@
 - 👯 I’m looking to collaborate on Kotlin project.
 - 🤔 I’m looking for help with RESTful API.
 - 📫 How to reach me:
-        [<img align="left" alt="theWebSite" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/global.svg" />](https://www.IdonthaveanywhywouldIhaveany.com/)
-        [<img align="left" alt="theinstagram" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/instagram.svg" />](https://www.instagram.com/b.ru.ck/)
+    [![theWebSite](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/global.svg)](https://www.IdonthaveanywhywouldIhaveany.com/)
+    [![Instagram](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/instagram.svg)](https://www.instagram.com/b.ru.ck/)
 
 
 <!--
