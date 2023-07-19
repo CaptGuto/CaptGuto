@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on Kotlin project.
 - 🤔 I’m looking for help with RESTful API.
 - 📫 How to reach me:
-  <a href="https://www.IdonthaveanywhywouldIhaveany.com/"><img src="https://simpleicons.org/icons/globe.svg" alt="theWebSite" width="22px"></a>
+  <a href="https://www.IdonthaveanywhywouldIhaveany.com/"><img src="https://simpleicons.org/icons/linkedin.svg" alt="theWebSite" width="22px"></a>
   <a href="https://www.instagram.com/your_instagram_username/"><img src="https://simpleicons.org/icons/instagram.svg" alt="Instagram" width="22px"></a>
 
 
