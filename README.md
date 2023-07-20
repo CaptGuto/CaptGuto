@@ -15,7 +15,7 @@
 - ⚡ Fun fact:
 
 
-## Languages and Tools
+## Languages and Tools:
 <p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 3rem"/>&nbsp
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" style="height: 3rem; background-color:white"/>&nbsp
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" style="height: 3rem; background-color:white"/>&nbsp
