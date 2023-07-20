@@ -9,6 +9,7 @@
 - 👯 I’m looking to collaborate on Kotlin project.
 - 🤔 I’m looking for help with RESTful API.
 - 📫 How to reach me:
+  </br>
   - <a href="https://www.linkedin.com/in/nafiyad-tadesse-1565b325b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BdnKy20NrSNKkrEbpd6x30w%3D%3D"><img src="https://simpleicons.org/icons/linkedin.svg" alt="theWebSite" width="26px"></a>
   <a href="https://www.instagram.com/b.ru.ck/"><img src="https://simpleicons.org/icons/instagram.svg" alt="Instagram" width="26px"></a>
    <a href="https://threads/b.ru.ck/"><img src="https://simpleicons.org/icons/threads.svg" alt="Instagram" width="26px"></a>
