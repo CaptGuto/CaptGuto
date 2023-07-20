@@ -17,9 +17,9 @@
 
 ## Languages and Tools:
 <p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="height: 3rem"/>&nbsp
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" style="height: 3rem; background-color:white"/>&nbsp
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" style="height: 3rem; background-color:white"/>&nbsp
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" style="height: 3rem; background-color:white"/>&nbsp
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" style="height: 3rem; background-color:white"/>&nbsp
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c++/c++-original-wordmark.svg" style="height: 3rem; background-color:white"/>&nbsp
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" style="height: 3rem; background-color:white"/>&nbsp
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" style="height: 3rem; background-color:white"/>&nbsp
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="height: 3rem"/>&nbsp
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="height: 3rem"/>&nbsp
