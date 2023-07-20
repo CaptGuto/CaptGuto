@@ -1,8 +1,7 @@
-### Good Morning my neighbors, I'm Nafiyad - aka CaptGuto 👋
+## Hello, My name is Nafiyad - aka CaptGuto 👋
+### Me is a University Student with big dreames!
+##### Welcome to my GitHub profile! I am a passionate programmer with a deep love for coding and problem-solving. With a strong foundation in various programming languages and frameworks, I thrive on turning complex challenges into elegant 
 
-#### Welcome to my GitHub profile! I am a passionate programmer with a deep love for coding and problem-solving. With a strong foundation in various programming languages and frameworks, I thrive on turning complex challenges into elegant 
-
-## Me is a University Student with big dreames!
 - 🎓 I’m currently attending AAU.
 - 🔭 I’m currently working on native android development. 
 - 🌱 I’m currently learning as much as I can !!!!!
