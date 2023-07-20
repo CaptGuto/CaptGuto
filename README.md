@@ -14,7 +14,7 @@
   <a href="https://threads/b.ru.ck/"><img src="https://simpleicons.org/icons/threads.svg" alt="Threads" width="26px"></a>
 - ⚡ Fun fact:
 - 
-<p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 32px"/>
+<p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 3rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" style="height: 42px; background-color:white"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" style="height: 32px; background-color:white"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" style="height: 32px; background-color:white"/>
