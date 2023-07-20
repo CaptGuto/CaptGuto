@@ -13,22 +13,27 @@
   <a href="https://www.instagram.com/b.ru.ck/"><img src="https://simpleicons.org/icons/instagram.svg" alt="Instagram" width="26px"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://threads/b.ru.ck/"><img src="https://simpleicons.org/icons/threads.svg" alt="Threads" width="26px"></a>
 - ⚡ Fun fact:
+<style>
+  .colored-icon {
+    filter: invert(20%) sepia(100%) saturate(500%) hue-rotate(180deg);
+  }
+</style>
+
 ## Languages and Tools
 - **Programming Languages:** 
-  <img src="https://simpleicons.org/icons/java.svg" alt="Java" width="26px" height="26px"> Java
-  <img src="https://simpleicons.org/icons/kotlin.svg" alt="Kotlin" width="26px" height="26px"> Kotlin
-  <img src="https://simpleicons.org/icons/python.svg" alt="Python" width="26px" height="26px"> Python
+  <img src="https://simpleicons.org/icons/java.svg" alt="Java" width="26px" height="26px" class="colored-icon"> Java
+  <img src="https://simpleicons.org/icons/kotlin.svg" alt="Kotlin" width="26px" height="26px" class="colored-icon"> Kotlin
+  <img src="https://simpleicons.org/icons/python.svg" alt="Python" width="26px" height="26px" class="colored-icon"> Python
 
 - **Frameworks and Libraries:** 
-  <img src="https://simpleicons.org/icons/android.svg" alt="Android" width="26px" height="26px"> Android
-  <img src="https://simpleicons.org/icons/spring.svg" alt="Spring" width="26px" height="26px"> Spring
-  <img src="https://simpleicons.org/icons/react.svg" alt="React" width="26px" height="26px"> React
+  <img src="https://simpleicons.org/icons/android.svg" alt="Android" width="26px" height="26px" class="colored-icon"> Android
+  <img src="https://simpleicons.org/icons/spring.svg" alt="Spring" width="26px" height="26px" class="colored-icon"> Spring
+  <img src="https://simpleicons.org/icons/react.svg" alt="React" width="26px" height="26px" class="colored-icon"> React
 
 - **Development Tools:** 
-  <img src="https://simpleicons.org/icons/intellijidea.svg" alt="IntelliJ IDEA" width="26px" height="26px"> IntelliJ IDEA
-  <img src="https://simpleicons.org/icons/visualstudio.svg" alt="Visual Studio" width="26px" height="26px"> Visual Studio
-  <img src="https://simpleicons.org/icons/git.svg" alt="Git" width="26px" height="26px"> Git
-
+  <img src="https://simpleicons.org/icons/intellijidea.svg" alt="IntelliJ IDEA" width="26px" height="26px" class="colored-icon"> IntelliJ IDEA
+  <img src="https://simpleicons.org/icons/visualstudio.svg" alt="Visual Studio" width="26px" height="26px" class="colored-icon"> Visual Studio
+  <img src="https://simpleicons.org/icons/git.svg" alt="Git" width="26px" height="26px" class="colored-icon"> Git
 <!--
 **CaptGuto/CaptGuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
