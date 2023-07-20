@@ -14,6 +14,7 @@
   <a href="https://threads/b.ru.ck/"><img src="https://simpleicons.org/icons/threads.svg" alt="Threads" width="26px"></a>
 - ⚡ Fun fact:
   <br>
+### Languages and Tools
 <p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 3rem"/>&nbsp
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" style="height: 3rem; background-color:white"/>&nbsp
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" style="height: 3rem; background-color:white"/>&nbsp
@@ -30,6 +31,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  style="height: 3rem"/>&nbsp
 </p>
 
+
+<--
 **CaptGuto/CaptGuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
