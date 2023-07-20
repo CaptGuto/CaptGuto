@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/nafiyad-tadesse-1565b325b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BdnKy20NrSNKkrEbpd6x30w%3D%3D"><img src="https://simpleicons.org/icons/linkedin.svg" alt="LinkedIn" width="26px"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/b.ru.ck/"><img src="https://simpleicons.org/icons/instagram.svg" alt="Instagram" width="26px"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://threads/b.ru.ck/"><img src="https://simpleicons.org/icons/threads.svg" alt="Threads" width="26px"></a>
-- ⚡ Fun fact:
+- ⚡ Fun fact: ????
 
 
 ## Languages and Tools:
@@ -33,17 +33,3 @@
 </p>
 
 
-<--
-**CaptGuto/CaptGuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
