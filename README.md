@@ -15,19 +15,20 @@
 - ⚡ Fun fact:
 ## Languages and Tools
 - **Programming Languages:** 
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"> Java
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"> Kotlin
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> Python
+  <img src="https://simpleicons.org/icons/java.svg" alt="Java" width="26px" height="26px"> Java
+  <img src="https://simpleicons.org/icons/kotlin.svg" alt="Kotlin" width="26px" height="26px"> Kotlin
+  <img src="https://simpleicons.org/icons/python.svg" alt="Python" width="26px" height="26px"> Python
 
 - **Frameworks and Libraries:** 
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"> Android
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"> Spring
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"> React
+  <img src="https://simpleicons.org/icons/android.svg" alt="Android" width="26px" height="26px"> Android
+  <img src="https://simpleicons.org/icons/spring.svg" alt="Spring" width="26px" height="26px"> Spring
+  <img src="https://simpleicons.org/icons/react.svg" alt="React" width="26px" height="26px"> React
 
 - **Development Tools:** 
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"> IntelliJ IDEA
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio"> Visual Studio
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"> Git
+  <img src="https://simpleicons.org/icons/intellijidea.svg" alt="IntelliJ IDEA" width="26px" height="26px"> IntelliJ IDEA
+  <img src="https://simpleicons.org/icons/visualstudio.svg" alt="Visual Studio" width="26px" height="26px"> Visual Studio
+  <img src="https://simpleicons.org/icons/git.svg" alt="Git" width="26px" height="26px"> Git
+
 <!--
 **CaptGuto/CaptGuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
