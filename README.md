@@ -1,5 +1,5 @@
 ## Hello, My name is Nafiyad - aka CaptGuto 👋
-### Me is a programmer with big dreames!  👨‍💻
+### Me is a programmer with big dreames!  
 ##### Welcome to my GitHub profile! I am a passionate programmer with a deep love for coding and problem-solving. With a strong foundation in various programming languages and frameworks, I thrive on turning complex challenges into elegant 
 
 - 🎓 I’m currently attending AAU.
