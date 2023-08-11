@@ -1,6 +1,6 @@
 ## Hello, My name is Nafiyad - aka CaptGuto 👋
 ### Me is a programmer with big dreames! 👨‍💻
-##### Welcome to my GitHub profile! I am a passionate programmer with a deep love for coding and problem-solving. With a strong foundation in various programming languages and frameworks, I thrive on turning complex challenges into elegant 
+##### Welcome to my GitHub profile! I am a passionate programmer with a deep love for coding and problem-solving. With a strong foundation in various programming languages and frameworks, I thrive on turning complex challenges into elegant opportunity to learn!  
 
 - 🎓 I’m currently attending AAU.
 - 🔭 I’m currently working on native android development. 
@@ -16,7 +16,7 @@
 
 
 ## Languages and Tools:
-<p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="height: 3rem"/>&nbsp
+<p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="height: 20px"/>&nbsp
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" style="height: 3rem; background-color:white"/>&nbsp
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" style="height: 3rem; background-color: white"/>&nbsp
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" alt="Android Studio" style="height: 3rem; background-color: white"/>&nbsp
