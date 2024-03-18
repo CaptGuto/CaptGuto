@@ -4,9 +4,9 @@
 
 - 🎓 I’m currently attending AAU.
 - 🔭 I’m currently working on native android development. 
-- 🌱 I’m currently learning as much as I can !!!!!
+- 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on Kotlin project.
-- 🤔 I’m looking for help with RESTful API.
+- 🤔 I’m looking for help with React.
 - 📫 How to reach me:
 
   <a href="https://www.linkedin.com/in/nafiyad-tadesse-1565b325b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BdnKy20NrSNKkrEbpd6x30w%3D%3D"><img src="https://simpleicons.org/icons/linkedin.svg" alt="LinkedIn" width="26px"></a>&nbsp;&nbsp;&nbsp;
