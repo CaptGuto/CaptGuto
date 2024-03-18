@@ -4,7 +4,7 @@
 
 - 🎓 I’m currently attending AAU.
 - 🔭 I’m currently working on native android development. 
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning React Native.
 - 👯 I’m looking to collaborate on Kotlin project.
 - 🤔 I’m looking for help with React.
 - 📫 How to reach me:
